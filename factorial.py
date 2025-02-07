@@ -1,7 +1,19 @@
-def factorial(n):
-    total = 0
-    for i in range(1, n + 1):
-        total *= i
-    return total
-a = int(input())
-print(factorial(a))
+# str
+# int
+# bool
+# list
+# dict
+# tuple
+# set
+# float
+
+# word = input().split(",")
+word = [i for i in input().split()]
+print(word)
+
+
+
+
+
+
+
